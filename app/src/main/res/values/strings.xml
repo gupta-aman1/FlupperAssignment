@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flupper Assignment</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Black</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+    </string-array>
+</resources>
